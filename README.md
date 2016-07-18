@@ -1,1 +1,3 @@
 # Oil-price-volatility-models
+
+The aim of the project is to investigate the behaviour of Brent oil prices and its volatility. The set of sophisticated volatility models is employed for this purpose. The modelling includes ARCH models of high order, symmetric and asymmetric GARCH models. The models will be compared based on goodness of fit criteria as well as on its forecasting performance. The period of consideration is chosen from the day when price hit the value of 100 US dollars, 1st of February 2011 until 31st January 2014. The results of research should be useful to members of the oil industry, governments and financial market players who need to understand and forecast oil price movements.
